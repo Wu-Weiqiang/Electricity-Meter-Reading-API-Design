@@ -30,10 +30,3 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-
-```
-meter_id=999-999-999
-date=28-01-2020
-time=14:30:11
-electricity_reading=1000
-```
