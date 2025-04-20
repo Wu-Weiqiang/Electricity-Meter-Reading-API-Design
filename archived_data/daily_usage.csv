@@ -1,2 +1,3 @@
 Meter_id,Region,Area,Dwelling_type,Date,Daily_Usage (kWh)
-999-999-991,jh,hj,jkg,2025-02-20,11.0
+999-999-999,West,Jurong,1 room,2025-02-20,10.0
+999-999-999,West,Jurong,1 room,2025-04-20,7.0
